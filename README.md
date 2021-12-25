@@ -1,2 +1,2 @@
-# solid-engineering-fellowship
+# Solid Engineering Fellowship
  Implementation of SOLID Principles OOP
